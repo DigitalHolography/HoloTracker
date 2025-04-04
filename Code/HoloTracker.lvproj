@@ -115,6 +115,7 @@
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
 				<Item Name="LVStringsAndValuesArrayTypeDef_U16.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVStringsAndValuesArrayTypeDef_U16.ctl"/>
 				<Item Name="NI_3D Picture Control.lvlib" Type="Library" URL="/&lt;vilib&gt;/picture/3D Picture Control/NI_3D Picture Control.lvlib"/>
+				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_LVConfig.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/config.llb/NI_LVConfig.lvlib"/>
@@ -167,7 +168,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{37962870-B846-4A58-B4F6-207E2FD2E681}</Property>
-				<Property Name="Bld_version.build" Type="Int">18</Property>
+				<Property Name="Bld_version.build" Type="Int">22</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">HoloTracker_Link.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../build/Holo_Tracker_Link/HoloTracker_Link.exe</Property>
@@ -249,7 +250,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D920B73B-F4AC-47EA-8DE0-671A5F4F9AAA}</Property>
-				<Property Name="Bld_version.build" Type="Int">15</Property>
+				<Property Name="Bld_version.build" Type="Int">21</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">HoloTracker_Locate.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../build/HoloTracker_Locate/HoloTracker_Locate.exe</Property>
@@ -368,9 +369,9 @@
 				<Property Name="INST_defaultDir" Type="Str">{B9BC1E67-0CA5-4223-A675-215424C1F2D6}</Property>
 				<Property Name="INST_installerName" Type="Str">installHoloTracker.exe</Property>
 				<Property Name="INST_productName" Type="Str">HoloTracker</Property>
-				<Property Name="INST_productVersion" Type="Str">1.0.12</Property>
+				<Property Name="INST_productVersion" Type="Str">1.0.16</Property>
 				<Property Name="InstSpecBitness" Type="Str">64-bit</Property>
-				<Property Name="InstSpecVersion" Type="Str">23328002</Property>
+				<Property Name="InstSpecVersion" Type="Str">23108276</Property>
 				<Property Name="MSI_arpCompany" Type="Str">LEMTA Université de Lorraine</Property>
 				<Property Name="MSI_autoselectDrivers" Type="Bool">true</Property>
 				<Property Name="MSI_distID" Type="Str">{919827CA-27D9-4927-A981-5AD2138F6FB2}</Property>
